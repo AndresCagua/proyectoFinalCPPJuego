@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1616857982 source:c:\cursos\introducionc++\proyectofinalcpp\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1616856804 c:\cursos\introducionc++\proyectofinalcpp\include\player.h
+
+1616861052 source:c:\cursos\introducionc++\proyectofinalcpp\main.cpp
+	<iostream>
+	"Player.h"
+	"MapCell.h"
+	"GameMap.h"
+
+1616856804 c:\cursos\introducionc++\proyectofinalcpp\include\mapcell.h
+
+1616856804 source:c:\cursos\introducionc++\proyectofinalcpp\src\mapcell.cpp
+	"MapCell.h"
+
+1616861127 c:\cursos\introducionc++\proyectofinalcpp\include\gamemap.h
+	"MapCell.h"
+
+1616859835 source:c:\cursos\introducionc++\proyectofinalcpp\src\gamemap.cpp
+	"GameMap.h"
+	<iostream>
+	<fstream>
+
